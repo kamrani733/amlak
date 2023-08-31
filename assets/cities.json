@@ -1,0 +1,107 @@
+[
+  {
+    "city": "تهران",
+    "city_en": "tehran",
+    "iata": "ika"
+  },
+  {
+    "city": "اصفهان",
+    "city_en": "isfahan",
+    "iata": "ifn"
+  },
+  {
+    "city": "مشهد",
+    "city_en": "mashhad",
+    "iata": "mhd"
+  },
+  {
+    "city": "تبریز",
+    "city_en": "tabriz",
+    "iata": "tbz"
+  },
+  {
+    "city": "کیش",
+    "city_en": "kish island",
+    "iata": "kih"
+  },
+
+  {
+    "city": "قشم",
+    "city_en": "qeshm island",
+    "iata": "gsm"
+  },
+  {
+    "city": "آبادان",
+    "city_en": "abadan",
+    "iata": "abd"
+  },
+  {
+    "city": "اهواز",
+    "city_en": "ahvaz",
+    "iata": "awz"
+  },
+  {
+    "city": "بندرعباس",
+    "city_en": "bandar abbas",
+    "iata": "bnd"
+  },
+  {
+    "city": "بیرجند",
+    "city_en": "birjand",
+    "iata": "xbj"
+  },
+  {
+    "city": "بوشهر",
+    "city_en": "bushehr",
+    "iata": "buz"
+  },
+  {
+    "city": "چابهار",
+    "city_en": "chabahar",
+    "iata": "zbr"
+  },
+  {
+    "city": "ساری",
+    "city_en": "sari",
+    "iata": "sry"
+  },
+
+  {
+    "city": "کرمان",
+    "city_en": "kerman",
+    "iata": "ker"
+  },
+  {
+    "city": "کرمانشاه",
+    "city_en": "kermanshah",
+    "iata": "ksh"
+  },
+
+  {
+    "city": "رشت",
+    "city_en": "rasht",
+    "iata": "ras"
+  },
+  {
+    "city": "شیراز",
+    "city_en": "shiraz",
+    "iata": "syz"
+  },
+
+ 
+  {
+    "city": "ارومیه",
+    "city_en": "urmia",
+    "iata": "omh"
+  },
+  {
+    "city": "یزد",
+    "city_en": "yazd",
+    "iata": "azd"
+  },
+  {
+    "city": "زاهدان",
+    "city_en": "zahedan",
+    "iata": "zah"
+  }
+]

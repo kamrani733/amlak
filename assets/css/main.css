@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "yekanBakh";
+  src: url('../font/yekanbakh_medium.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: "roboto";
+  src: url('../font/roboto-medium.ttf') format("truetype");
+}
+
+@layer base {
+  html {
+    font-family: yekanBakh;
+  }
+}
+
+body {
+  font-family: yekanBakh;
+}
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+  background-image: url(../icons/clock.svg);
+  background-size: 15px 15px;
+  background-position: -4px -4px;
+  background-repeat: no-repeat;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 16px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: rgb(96,165,250);
+  border-radius: 14px;
+  border: 3px solid var(--primary);
+}
