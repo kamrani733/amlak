@@ -3,5 +3,6 @@
     <Header />
     <Banner />
     <Services />
+    <statistics />
   </div>
 </template>

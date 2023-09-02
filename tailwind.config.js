@@ -28,11 +28,13 @@ module.exports = {
       },
       colors: {
         primary: '#0B5FAE',
-        secondry: '#7C8893'
+        secondry: '#7C8893',
+        third: '#F4F6F8',
       },
       backgroundImage: {
         'primary': '#0B5FAE',
         'secondry': '#7C8893',
+        'third': '##F4F6F8',
       },
       borderRadius: {
         normal: '0.625rem',
