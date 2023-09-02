@@ -14,6 +14,9 @@ module.exports = {
         'yekanBakh': ['yekanBakh'],
         'roboto': ['roboto'],
       },
+      boxShadow: {
+        'boxShadow': '8px 10px 20px 1px #98989829;',
+      },
       fontFamily: {
         // english: 'Estedad',
       },
