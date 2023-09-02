@@ -4,5 +4,6 @@
     <Banner />
     <Services />
     <statistics />
+    <files />
   </div>
 </template>
